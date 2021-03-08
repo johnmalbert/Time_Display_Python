@@ -1,0 +1,29 @@
+.container{
+    background-color: gray;
+    min-height: 500px;
+    border: 1px solid black;
+    padding: 100px 20px;
+    text-align: center;
+    font-family:cursive;
+}
+.row{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.col-md-8{
+    background-color: #3c4c5b;
+    min-height: 100px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    text-align:center;
+}
+h1{
+    border: 5px solid #f78723;
+    border-radius: 10px;
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    color: rgb(58, 42, 21);
+}
